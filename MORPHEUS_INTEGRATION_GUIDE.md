@@ -1,7 +1,7 @@
 # NVIDIA Morpheus Integration Guide
-## QUIC DoS Autoencoder — Real-Time Detection Pipeline
+## QUIC DoS Autoencoder - Real-Time Detection Pipeline
 
-**Project:** QUIC Handshake Degradation Detection | **Student:** Safaa | **Context:** Nokia Research Internship  
+**Project:** QUIC Handshake Degradation Detection | **Student:** Safaa |  
 **Morpheus Version:** 25.06 | **Date:** February 2026
 
 > This is an architectural and methodological reference — not a tested implementation. It maps each component of the existing research pipeline to its Morpheus equivalent, giving a future implementer a technically grounded roadmap.
