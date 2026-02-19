@@ -94,13 +94,11 @@ quic-dos-detection/
 │   └── statistical_analysis.py     # Welch t-test + Cohen's d validation
 │
 ├── notebooks/
-│   ├── data_exploration.ipynb       # Dataset visualization
-│   ├── model_training.ipynb         # Autoencoder training
-│   └── evaluation.ipynb             # Results and threshold analysis
+│   ├── DOS_Detection.ipynb       # Dataset visualization + Autoencoder training + Results and threshold analysis
+│  
+│   
 │
-├── models/
-│   ├── autoencoder.py               # Autoencoder architecture
-│   └── train.py                     # Training script
+
 │
 └── data/
     ├── normal_conn.log              # Benign Zeek flow log (159,420 flows)
